@@ -1,0 +1,2 @@
+# miner
+classic game "miner"
